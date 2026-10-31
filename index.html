@@ -2101,7 +2101,7 @@ const IconChart = ({ className = "w-4 h-4" }) => (
             
             {/* Top Modern Header */}
             <header className="bg-white border-b border-slate-200 sticky top-0 z-40 shadow-sm">
-              <div className="max-w-7xl mx-auto px-4 sm:px-6 py-3.5 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+              <div className="max-w-7xl mx-auto px-3.5 sm:px-6 py-2.5 sm:py-3.5 flex flex-col md:flex-row md:items-center justify-between gap-3 sm:gap-4">
                 
                 {/* Brand */}
                 <div className="flex items-center gap-3">
@@ -2122,14 +2122,14 @@ const IconChart = ({ className = "w-4 h-4" }) => (
                 </div>
 
                 {/* Header Action Strip */}
-                <div className="flex items-center gap-3 text-xs">
+                <div className="flex flex-wrap items-center gap-2 sm:gap-2.5 text-xs w-full md:w-auto justify-between md:justify-end">
                   {/* Handbook and Analytics Quick Buttons */}
                   <button
                     onClick={() => setShowHandbookModal(true)}
                     className="flex items-center gap-1.5 bg-slate-100 hover:bg-slate-200 text-slate-800 px-3 py-2 rounded-xl font-semibold transition-all text-xs border border-slate-200"
                     title="View AICTE Approval Process Handbook Regulations"
                   >
-                    <span>Regulations (APH)</span>
+                    <span>Regulations<span className="hidden sm:inline"> (APH)</span></span>
                   </button>
 
                   <button
@@ -2137,7 +2137,7 @@ const IconChart = ({ className = "w-4 h-4" }) => (
                     className="flex items-center gap-1.5 bg-slate-100 hover:bg-slate-200 text-slate-800 px-3 py-2 rounded-xl font-semibold transition-all text-xs border border-slate-200"
                     title="View National Regional Compliance Analytics"
                   >
-                    <span>Regional Analytics</span>
+                    <span><span className="hidden sm:inline">Regional </span>Analytics</span>
                   </button>
 
                   {/* + New Approval Application CTA */}
@@ -2147,7 +2147,7 @@ const IconChart = ({ className = "w-4 h-4" }) => (
                     title="Submit New Institution Approval Application"
                   >
                     <IconPlus className="w-4 h-4" />
-                    <span>+ New Approval Application</span>
+                    <span>+ New Approval<span className="hidden sm:inline"> Application</span></span>
                   </button>
 
                   {/* Overdue chip */}
@@ -2157,7 +2157,7 @@ const IconChart = ({ className = "w-4 h-4" }) => (
                   </div>
 
                   {/* Filter */}
-                  <div className="flex items-center gap-1.5 bg-slate-50 px-3 py-1.5 rounded-xl border border-slate-200 text-slate-700 font-mono">
+                  <div className="flex items-center gap-1.5 bg-slate-50 px-2.5 sm:px-3 py-1.5 rounded-xl border border-slate-200 text-slate-700 font-mono text-[11px] sm:text-xs max-w-full">
                     <span className="text-slate-400">REGION:</span>
                     <select
                       value={filterRegion}
@@ -2186,7 +2186,7 @@ const IconChart = ({ className = "w-4 h-4" }) => (
               {/* ========================================== */}
               {/* EXECUTIVE STATUTORY KPI METRIC STRIP       */}
               {/* ========================================== */}
-              <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">
+              <div className="grid grid-cols-2 lg:grid-cols-4 gap-2.5 sm:gap-4">
                 {/* Metric 1: Total Dockets */}
                 <div className="bg-white border border-slate-200/80 rounded-2xl p-4 shadow-sm flex items-center gap-3.5">
                   <div className="w-11 h-11 rounded-xl bg-blue-50 text-blue-700 flex items-center justify-center font-bold">
@@ -2286,8 +2286,8 @@ const IconChart = ({ className = "w-4 h-4" }) => (
                   )}
                 </div>
 
-                {/* 5 Clean Connected Stage Cards */}
-                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-3">
+                {/* 5 Clean Connected Stage Cards: Mobile touch rail / Desktop 5-col grid */}
+                <div className="flex md:grid md:grid-cols-5 gap-2.5 sm:gap-3 overflow-x-auto pb-2 md:pb-0 scrollbar-thin -mx-2 px-2 sm:mx-0 sm:px-0">
                   {STAGES.map((st) => {
                     const count = files.filter(f => f.currentStageId === st.id).length;
                     const isSelected = filterStage === st.id;
@@ -2299,7 +2299,7 @@ const IconChart = ({ className = "w-4 h-4" }) => (
                           setFilterStage(filterStage === st.id ? null : st.id);
                           showToast(filterStage === st.id ? 'Cleared stage filter' : `Filtered to Stage 0${st.id}: ${st.name}`);
                         }}
-                        className={`p-3.5 rounded-xl border transition-all cursor-pointer flex flex-col justify-between ${
+                        className={`p-3 sm:p-3.5 rounded-xl border transition-all cursor-pointer flex flex-col justify-between min-w-[200px] md:min-w-0 flex-shrink-0 md:flex-shrink ${
                           isSelected
                             ? 'bg-blue-600 text-white border-blue-600 shadow-md ring-2 ring-blue-500/30'
                             : 'bg-slate-50 hover:bg-white border-slate-200 hover:border-blue-400 hover:shadow-sm'
@@ -2414,7 +2414,7 @@ const IconChart = ({ className = "w-4 h-4" }) => (
                     </div>
 
                     {/* Quick Search Input */}
-                    <div className="relative min-w-[200px] sm:w-64">
+                    <div className="relative w-full sm:w-64 min-w-0 flex-1 sm:flex-initial">
                       <IconSearch className="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2" />
                       <input
                         type="text"
@@ -2439,7 +2439,7 @@ const IconChart = ({ className = "w-4 h-4" }) => (
 
                 {/* Interactive Region Filter Strip (All 8 Regional Offices) */}
                 <div className="bg-white border border-slate-200 rounded-2xl p-2.5 shadow-sm">
-                  <div className="flex items-center gap-1.5 overflow-x-auto pb-1 scrollbar-thin">
+                  <div className="flex items-center gap-1.5 overflow-x-auto pb-1 scrollbar-thin -mx-1 px-1 sm:mx-0 sm:px-0">
                     <span className="text-[11px] font-mono text-slate-400 px-2 flex-shrink-0 font-bold uppercase">
                       REGIONS:
                     </span>
@@ -2619,7 +2619,7 @@ const IconChart = ({ className = "w-4 h-4" }) => (
                 {/* ==================================================== */}
                 {activeView === 'TABLE' && (
                   <div className="bg-white border border-slate-200 rounded-2xl overflow-hidden shadow-card">
-                    <div className="overflow-x-auto">
+                    <div className="overflow-x-auto -mx-3.5 px-3.5 sm:mx-0 sm:px-0 scrollbar-thin">
                       <table className="w-full text-left text-xs border-collapse">
                         <thead>
                           <tr className="bg-slate-50 border-b border-slate-200 text-slate-500 font-mono text-[11px] uppercase tracking-wider">
@@ -2910,18 +2910,34 @@ const IconChart = ({ className = "w-4 h-4" }) => (
             {/* 3. THE INSPECTOR'S PICTORIAL DOSSIER MODAL           */}
             {/* ==================================================== */}
             {selectedFile && (
-              <div className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-6 overflow-y-auto bg-slate-950/70 backdrop-blur-md">
-                <div className="relative w-full max-w-5xl bg-white border border-slate-200 rounded-3xl shadow-modal overflow-hidden my-auto max-h-[92vh] flex flex-col">
+              <div className="fixed inset-0 z-50 flex items-center justify-center p-2 sm:p-6 overflow-y-auto bg-slate-950/70 backdrop-blur-md">
+                <div className="relative w-full max-w-5xl bg-white border border-slate-200 rounded-2xl sm:rounded-3xl shadow-modal overflow-hidden my-auto max-h-[96vh] sm:max-h-[92vh] flex flex-col">
                   
                   {/* Modal Header */}
-                  <div className="bg-slate-900 text-white px-6 py-4 flex items-center justify-between flex-shrink-0">
-                    <div className="flex items-center gap-3">
-                      <div className="w-9 h-9 rounded-xl bg-blue-600 flex items-center justify-center text-white">
+                  <div className="bg-slate-900 text-white px-4 py-3 sm:px-6 sm:py-4 flex flex-col sm:flex-row sm:items-center justify-between gap-3 flex-shrink-0">
+                    <div className="flex items-start sm:items-center gap-2.5 min-w-0 flex-1">
+                      <div className="w-9 h-9 rounded-xl bg-blue-600 flex items-center justify-center text-white flex-shrink-0 mt-0.5 sm:mt-0">
                         <IconBuilding className="w-5 h-5" />
                       </div>
+                      <div className="min-w-0 flex-1">
+                        <div className="flex flex-wrap items-center gap-1.5">
+                          <h3 className="font-bold text-sm sm:text-base text-white truncate max-w-[220px] sm:max-w-md">
+                            {selectedFile.instituteName}
+                          </h3>
+                          <span className="text-[10px] font-mono px-2 py-0.5 rounded-full bg-white/20 text-white flex-shrink-0">
+                            {selectedFile.fileNumber}
+                          </span>
+                        </div>
+                        <p className="text-[11px] sm:text-xs text-slate-300 truncate">
+                          {selectedFile.location} • Intake: {selectedFile.intake}
+                        </p>
+                      </div>
+                    </div>
+
+                    <div className="flex items-center justify-between sm:justify-end gap-2 flex-shrink-0 pt-2 sm:pt-0 border-t border-slate-800 sm:border-0">
                       <button
                         onClick={() => toggleAudioBriefing(selectedFile)}
-                        className={`px-2.5 py-1 rounded-xl text-xs font-mono font-bold flex items-center gap-1.5 transition-all ${
+                        className={`px-2.5 py-1.5 rounded-xl text-xs font-mono font-bold flex items-center gap-1.5 transition-all ${
                           isSpeaking ? 'bg-amber-400 text-slate-950 animate-pulse' : 'bg-white/10 hover:bg-white/20 text-white'
                         }`}
                         title="Play / Pause Audio Briefing"
@@ -2929,34 +2945,22 @@ const IconChart = ({ className = "w-4 h-4" }) => (
                         {isSpeaking ? <IconVolumeX className="w-3.5 h-3.5" /> : <IconVolume className="w-3.5 h-3.5" />}
                         <span>{isSpeaking ? 'Stop Audio' : 'Listen Briefing'}</span>
                       </button>
-                      <div>
-                        <div className="flex items-center gap-2">
-                          <h3 className="font-bold text-base text-white truncate max-w-md">
-                            {selectedFile.instituteName}
-                          </h3>
-                          <span className="text-[10px] font-mono px-2 py-0.5 rounded-full bg-white/20 text-white">
-                            {selectedFile.fileNumber}
-                          </span>
-                        </div>
-                        <p className="text-xs text-slate-300">
-                          {selectedFile.location} • Sanctioned Intake: {selectedFile.intake} Students
-                        </p>
-                      </div>
-                    </div>
 
-                    <button
-                      onClick={() => setSelectedFile(null)}
-                      className="p-1.5 rounded-xl hover:bg-white/10 text-white transition-colors"
-                    >
-                      <IconClose className="w-5 h-5" />
-                    </button>
+                      <button
+                        onClick={() => setSelectedFile(null)}
+                        className="p-1.5 rounded-xl hover:bg-white/10 text-white transition-colors ml-auto sm:ml-0"
+                        title="Close Dossier"
+                      >
+                        <IconClose className="w-5 h-5" />
+                      </button>
+                    </div>
                   </div>
 
                   {/* Pictorial Navigation Tabs */}
-                  <div className="bg-slate-100 border-b border-slate-200 px-6 py-2 flex items-center gap-2 overflow-x-auto text-xs font-semibold">
+                  <div className="bg-slate-100 border-b border-slate-200 px-3 sm:px-6 py-2 flex items-center gap-1.5 sm:gap-2 overflow-x-auto text-xs font-semibold scrollbar-thin">
                     <button
                       onClick={() => setModalTab('PICTORIAL_BLUEPRINT')}
-                      className={`px-4 py-2 rounded-xl transition-all flex items-center gap-2 ${
+                      className={`px-3 sm:px-4 py-2 rounded-xl transition-all flex items-center gap-1.5 sm:gap-2 flex-shrink-0 whitespace-nowrap ${
                         modalTab === 'PICTORIAL_BLUEPRINT'
                           ? 'bg-white text-blue-700 shadow-sm border border-slate-200'
                           : 'text-slate-600 hover:text-slate-900'
@@ -2968,7 +2972,7 @@ const IconChart = ({ className = "w-4 h-4" }) => (
 
                     <button
                       onClick={() => setModalTab('METRIC_METERS')}
-                      className={`px-4 py-2 rounded-xl transition-all flex items-center gap-2 ${
+                      className={`px-3 sm:px-4 py-2 rounded-xl transition-all flex items-center gap-1.5 sm:gap-2 flex-shrink-0 whitespace-nowrap ${
                         modalTab === 'METRIC_METERS'
                           ? 'bg-white text-blue-700 shadow-sm border border-slate-200'
                           : 'text-slate-600 hover:text-slate-900'
@@ -2980,7 +2984,7 @@ const IconChart = ({ className = "w-4 h-4" }) => (
 
                     <button
                       onClick={() => setModalTab('EVIDENCE_PHOTOS')}
-                      className={`px-4 py-2 rounded-xl transition-all flex items-center gap-2 ${
+                      className={`px-3 sm:px-4 py-2 rounded-xl transition-all flex items-center gap-1.5 sm:gap-2 flex-shrink-0 whitespace-nowrap ${
                         modalTab === 'EVIDENCE_PHOTOS'
                           ? 'bg-white text-blue-700 shadow-sm border border-slate-200'
                           : 'text-slate-600 hover:text-slate-900'
@@ -2992,7 +2996,7 @@ const IconChart = ({ className = "w-4 h-4" }) => (
 
                     <button
                       onClick={() => setModalTab('AI_STATUTORY_AUDIT')}
-                      className={`px-4 py-2 rounded-xl transition-all flex items-center gap-2 ${
+                      className={`px-3 sm:px-4 py-2 rounded-xl transition-all flex items-center gap-1.5 sm:gap-2 flex-shrink-0 whitespace-nowrap ${
                         modalTab === 'AI_STATUTORY_AUDIT'
                           ? 'bg-white text-blue-700 shadow-sm border border-slate-200'
                           : 'text-slate-600 hover:text-slate-900'
@@ -3004,7 +3008,7 @@ const IconChart = ({ className = "w-4 h-4" }) => (
 
                     <button
                       onClick={() => setModalTab('CASE_HISTORY_LEDGER')}
-                      className={`px-4 py-2 rounded-xl transition-all flex items-center gap-2 ${
+                      className={`px-3 sm:px-4 py-2 rounded-xl transition-all flex items-center gap-1.5 sm:gap-2 flex-shrink-0 whitespace-nowrap ${
                         modalTab === 'CASE_HISTORY_LEDGER'
                           ? 'bg-white text-blue-700 shadow-sm border border-slate-200'
                           : 'text-slate-600 hover:text-slate-900'
@@ -3016,7 +3020,7 @@ const IconChart = ({ className = "w-4 h-4" }) => (
                   </div>
 
                   {/* Modal Body (Rich Visual Representation) */}
-                  <div className="p-6 overflow-y-auto space-y-6 flex-1">
+                  <div className="p-3.5 sm:p-6 overflow-y-auto space-y-5 sm:space-y-6 flex-1">
                     
                     {/* TAB 1: PICTORIAL ARCHITECTURAL BLUEPRINT */}
                     
@@ -3026,7 +3030,7 @@ const IconChart = ({ className = "w-4 h-4" }) => (
                     return (
                       <div className="space-y-6">
                         {/* Institutional Master Header Banner */}
-                        <div className="bg-gradient-to-r from-slate-900 via-slate-800 to-blue-950 text-white rounded-2xl p-6 border border-slate-700/60 shadow-md">
+                        <div className="bg-gradient-to-r from-slate-900 via-slate-800 to-blue-950 text-white rounded-xl sm:rounded-2xl p-4 sm:p-6 border border-slate-700/60 shadow-md">
                           <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
                             <div>
                               <div className="flex flex-wrap items-center gap-2 mb-2">
@@ -3073,15 +3077,15 @@ const IconChart = ({ className = "w-4 h-4" }) => (
                               <h4 className="font-bold text-sm text-slate-900">Institutional Leadership & Statutory Head</h4>
                             </div>
                             <div className="space-y-2.5 text-xs">
-                              <div className="flex justify-between items-center py-1 border-b border-slate-50">
+                              <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center py-1.5 border-b border-slate-50 gap-0.5 sm:gap-2">
                                 <span className="text-slate-500">Director / Principal:</span>
                                 <span className="font-bold text-slate-900">{profile.principal}</span>
                               </div>
-                              <div className="flex justify-between items-center py-1 border-b border-slate-50">
+                              <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center py-1.5 border-b border-slate-50 gap-0.5 sm:gap-2">
                                 <span className="text-slate-500">Dean of Academic Affairs:</span>
                                 <span className="font-semibold text-slate-800">{profile.deanAcademics}</span>
                               </div>
-                              <div className="flex justify-between items-center py-1 border-b border-slate-50">
+                              <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center py-1.5 border-b border-slate-50 gap-0.5 sm:gap-2">
                                 <span className="text-slate-500">Official Institutional Email:</span>
                                 <span className="font-mono text-blue-600">{profile.contactEmail}</span>
                               </div>
@@ -3098,15 +3102,15 @@ const IconChart = ({ className = "w-4 h-4" }) => (
                               <h4 className="font-bold text-sm text-slate-900">Accreditations & Washington Accord Standing</h4>
                             </div>
                             <div className="space-y-2.5 text-xs">
-                              <div className="flex justify-between items-center py-1 border-b border-slate-50">
+                              <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center py-1.5 border-b border-slate-50 gap-0.5 sm:gap-2">
                                 <span className="text-slate-500">NBA Washington Accord:</span>
                                 <span className="font-bold text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded">{profile.nba}</span>
                               </div>
-                              <div className="flex justify-between items-center py-1 border-b border-slate-50">
+                              <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center py-1.5 border-b border-slate-50 gap-0.5 sm:gap-2">
                                 <span className="text-slate-500">NAAC National Grade:</span>
                                 <span className="font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded">{profile.naac}</span>
                               </div>
-                              <div className="flex justify-between items-center py-1 border-b border-slate-50">
+                              <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center py-1.5 border-b border-slate-50 gap-0.5 sm:gap-2">
                                 <span className="text-slate-500">NIRF Ministry Ranking:</span>
                                 <span className="font-bold text-indigo-700 bg-indigo-50 px-2 py-0.5 rounded">{profile.nirf}</span>
                               </div>
@@ -3795,21 +3799,21 @@ const IconChart = ({ className = "w-4 h-4" }) => (
                     )}
 
                     {/* Modal Footer Controls */}
-                  <div className="bg-slate-50 border-t border-slate-200 p-4 sm:p-5 flex flex-col sm:flex-row items-center justify-between gap-3 flex-shrink-0">
+                  <div className="bg-slate-50 border-t border-slate-200 p-3 sm:p-5 flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-3 flex-shrink-0">
                     <div className="flex items-center gap-2 text-xs">
                       <img
                         src={selectedFile.officer.avatar}
                         alt={selectedFile.officer.name}
                         className="w-7 h-7 rounded-full object-cover border border-slate-300"
                       />
-                      <span className="text-slate-600">Assigned Desk: <strong>{selectedFile.officer.name}</strong> ({selectedFile.officer.role})</span>
+                      <span className="text-slate-600 truncate">Assigned Desk: <strong>{selectedFile.officer.name}</strong> ({selectedFile.officer.role})</span>
                     </div>
 
-                    <div className="flex items-center gap-2 sm:gap-3">
+                    <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-2 sm:gap-3 w-full sm:w-auto">
                       {(selectedFile.status === 'COMPLIANCE_GAP' || selectedFile.status === 'OVERDUE') && (
                         <button
                           onClick={() => setShowDeficiencyNoticeModal(selectedFile)}
-                          className="px-4 py-2.5 rounded-xl bg-rose-600 hover:bg-rose-700 text-white font-bold text-xs font-mono flex items-center gap-1.5 shadow-sm transition-colors"
+                          className="w-full sm:w-auto px-4 py-2.5 rounded-xl bg-rose-600 hover:bg-rose-700 text-white font-bold text-xs font-mono flex items-center justify-center gap-1.5 shadow-sm transition-colors text-center"
                         >
                           <IconAlert className="w-3.5 h-3.5" />
                           <span>Issue Deficiency Notice</span>
@@ -3822,7 +3826,7 @@ const IconChart = ({ className = "w-4 h-4" }) => (
                             advanceStage(selectedFile.id);
                             setSelectedFile(null);
                           }}
-                          className="px-4 py-2.5 rounded-xl bg-slate-900 hover:bg-blue-600 text-white font-bold text-xs font-mono flex items-center gap-2 shadow-sm transition-colors"
+                          className="w-full sm:w-auto px-4 py-2.5 rounded-xl bg-slate-900 hover:bg-blue-600 text-white font-bold text-xs font-mono flex items-center justify-center gap-2 shadow-sm transition-colors text-center"
                         >
                           <span>Advance to Stage 0{selectedFile.currentStageId + 1}</span>
                           <IconArrowRight className="w-4 h-4" />
@@ -3834,10 +3838,10 @@ const IconChart = ({ className = "w-4 h-4" }) => (
                           grantFinalApproval(selectedFile.id);
                           setSelectedFile(null);
                         }}
-                        className="px-5 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs font-mono flex items-center gap-2 shadow-sm transition-colors"
+                        className="w-full sm:w-auto px-4 sm:px-5 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs font-mono flex items-center justify-center gap-2 shadow-sm transition-colors text-center"
                       >
                         <IconAward className="w-4 h-4" />
-                        <span>Grant Official AICTE Approval (Issue LoA)</span>
+                        <span>Grant Official AICTE Approval<span className="hidden sm:inline"> (Issue LoA)</span></span>
                       </button>
                     </div>
                   </div>
@@ -4100,7 +4104,7 @@ const IconChart = ({ className = "w-4 h-4" }) => (
             {/* ==================================================== */}
             {showApprovalCertificate && (
               <div className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-6 overflow-y-auto bg-slate-950/80 backdrop-blur-md">
-                <div className="relative w-full max-w-3xl bg-white border border-slate-200 rounded-3xl shadow-modal overflow-hidden my-auto p-6 sm:p-8 space-y-6">
+                <div className="relative w-full max-w-3xl bg-white border border-slate-200 rounded-2xl sm:rounded-3xl shadow-modal overflow-hidden my-auto p-4 sm:p-8 space-y-4 sm:space-y-6">
                   
                   {/* Close button */}
                   <button
@@ -4334,7 +4338,7 @@ const IconChart = ({ className = "w-4 h-4" }) => (
             {/* ==================================================== */}
             {showDeficiencyNoticeModal && (
               <div className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-6 overflow-y-auto bg-slate-950/80 backdrop-blur-md">
-                <div className="relative w-full max-w-2xl bg-white border border-slate-200 rounded-3xl shadow-modal overflow-hidden my-auto p-6 sm:p-8 space-y-5">
+                <div className="relative w-full max-w-2xl bg-white border border-slate-200 rounded-2xl sm:rounded-3xl shadow-modal overflow-hidden my-auto p-4 sm:p-8 space-y-4 sm:space-y-5">
                   <div className="flex items-center justify-between border-b pb-3 border-slate-200">
                     <div>
                       <span className="text-[10px] font-mono font-bold text-rose-600 uppercase">OFFICIAL REGULATORY CIRCULAR</span>
