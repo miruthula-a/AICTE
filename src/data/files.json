@@ -1,0 +1,4925 @@
+[
+  {
+    "id": "AICTE/TN/2026/0412",
+    "fileNumber": "AICTE/TN/2026/0412",
+    "instituteName": "Sri Venkateswara Institute of Technology",
+    "state": "TN",
+    "region": "SRO",
+    "city": "Kanchipuram, Tamil Nadu",
+    "programme": "Engineering & Technology (UG)",
+    "intake": 420,
+    "trustName": "Sri Venkateswara Educational Trust",
+    "trustRegNo": "TN/SOC/2019/04417",
+    "currentStageId": 2,
+    "submissionDate": "2026-01-20",
+    "stageEnteredDate": "2026-01-27",
+    "assignedOfficer": "Dr. S. K. Ramanathan",
+    "officerDesk": "Desk 04 (SRO)",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8.2,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2025-11-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": true,
+        "registeredName": "Sri Venkateswara Educational Trust",
+        "deedName": "Sri Venkateshwara Education Trust",
+        "registrationNumber": "TN/SOC/2019/04417",
+        "registrationValidUntil": "2029-03-31"
+      },
+      "FAC-01": {
+        "ratio": 17.2,
+        "cadreCompliant": false
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Certificate",
+        "submitted": true,
+        "expiryDate": "2029-03-31",
+        "docNo": "TN/SOC/2019/04417"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire & Emergency Services NOC",
+        "submitted": true,
+        "expiryDate": "2025-11-15",
+        "docNo": "DFES-TN-2024-881"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Revenue Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-08-10",
+        "docNo": "NEC-KCH-2025-104"
+      },
+      {
+        "id": "DOC-04",
+        "title": "Corpus Fund Joint FDR Receipt",
+        "submitted": true,
+        "expiryDate": "2036-01-15",
+        "docNo": "FDR-IOB-992144"
+      },
+      {
+        "id": "DOC-05",
+        "title": "PWD Architectural Floor Plan",
+        "submitted": true,
+        "expiryDate": null,
+        "docNo": "PWD-CAD-2025-90"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Fee Paid",
+          "completed": true
+        },
+        {
+          "label": "Affidavit Form 101 Received",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land Title Deeds Verified",
+          "completed": true
+        },
+        {
+          "label": "Valid Fire NOC On Record",
+          "completed": false
+        },
+        {
+          "label": "Trust Deed Name Reconciliation",
+          "completed": false
+        },
+        {
+          "label": "Cadre Proportion Checked",
+          "completed": false
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Committee Site Visit",
+          "completed": false
+        },
+        {
+          "label": "Laboratory Telemetry Confirmed",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Recorded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Order Typed & Dispatched",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-001",
+        "fromStage": 1,
+        "toStage": 2,
+        "action": "Advanced from Application Inward to Document Scrutiny",
+        "officer": "Shri T. Natarajan",
+        "role": "Section Officer",
+        "desk": "Registry Inward",
+        "date": "2026-01-27",
+        "shortHash": "7b4c9102",
+        "fullHash": "7b4c9102ef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-01-28",
+        "officer": "Dr. S. K. Ramanathan",
+        "text": "Fire NOC submitted is dated Dec 2024; expired on 15 Nov 2025. Deficiency notice mandatory under Clause 9.4."
+      },
+      {
+        "date": "2026-02-04",
+        "officer": "Dr. S. K. Ramanathan",
+        "text": "Discrepancy noted in Land Sale Deed: spelled 'Sri Venkateshwara Education Trust' (extra 'h' and 'Education' vs 'Educational'). Society registration certificate uses 'Sri Venkateswara Educational Trust'."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/MH/2026/0188",
+    "fileNumber": "AICTE/MH/2026/0188",
+    "instituteName": "Modern Institute of Technology & Research",
+    "state": "MH",
+    "region": "WRO",
+    "city": "Pune, Maharashtra",
+    "programme": "Engineering & Technology (UG)",
+    "intake": 480,
+    "trustName": "Modern Educational Society",
+    "trustRegNo": "MH/PUN/2012/09912",
+    "currentStageId": 3,
+    "submissionDate": "2025-12-15",
+    "stageEnteredDate": "2026-01-20",
+    "assignedOfficer": "Smt. Archana Varma",
+    "officerDesk": "Desk 02 (WRO)",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 10.4,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2026-10-30"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "MH/PUN/2012/09912",
+        "registrationValidUntil": "2032-12-31"
+      },
+      "FAC-01": {
+        "ratio": 14.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Certificate",
+        "submitted": true,
+        "expiryDate": "2032-12-31",
+        "docNo": "MH/PUN/2012/09912"
+      },
+      {
+        "id": "DOC-02",
+        "title": "Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2026-10-30",
+        "docNo": "PMC-FIRE-2025-341"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Title Deed Verification",
+        "submitted": true,
+        "expiryDate": null,
+        "docNo": "PUN-REG-8821"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Fee Paid",
+          "completed": true
+        },
+        {
+          "label": "Affidavit Received",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Scrutiny Completed",
+          "completed": true
+        },
+        {
+          "label": "Documents Cleared",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Committee Site Visit",
+          "completed": false
+        },
+        {
+          "label": "Laboratory Physical Verification",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "Hearing Recorded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Final Order Recorded",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-001",
+        "fromStage": 1,
+        "toStage": 2,
+        "action": "Advanced to Scrutiny",
+        "officer": "A. Varma",
+        "role": "Scrutiny Officer",
+        "date": "2026-01-05",
+        "shortHash": "3f8a1102",
+        "fullHash": "3f8a1102ef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      },
+      {
+        "id": "TL-002",
+        "fromStage": 2,
+        "toStage": 3,
+        "action": "Advanced to Expert Visiting Committee",
+        "officer": "A. Varma",
+        "role": "Scrutiny Officer",
+        "date": "2026-01-20",
+        "shortHash": "6c9d2241",
+        "fullHash": "6c9d2241ab19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "3f8a1102ef19028ab6478921a948201948201840283749201948201847291048"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-01-25",
+        "officer": "Smt. Archana Varma",
+        "text": "EVC inspection panel notified. On-site visit date fixed for 19 Feb 2026 (4 days from today)."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/UP/2026/0302",
+    "fileNumber": "AICTE/UP/2026/0302",
+    "instituteName": "Avadh Institute of Technology",
+    "state": "UP",
+    "region": "NRO",
+    "city": "Lucknow, Uttar Pradesh",
+    "programme": "Engineering & Technology (UG)",
+    "intake": 360,
+    "trustName": "Avadh Progressive Educational Trust",
+    "trustRegNo": "UP/LKO/2016/04112",
+    "currentStageId": 4,
+    "submissionDate": "2025-11-20",
+    "stageEnteredDate": "2026-02-03",
+    "assignedOfficer": "Prof. D. K. Sharma",
+    "officerDesk": "Desk 07 (NRO)",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 7.8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2026-09-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "UP/LKO/2016/04112",
+        "registrationValidUntil": "2026-02-27"
+      },
+      "FAC-01": {
+        "ratio": 14.2,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Renewal",
+        "submitted": true,
+        "expiryDate": "2026-02-27",
+        "docNo": "UP/LKO/2016/04112"
+      },
+      {
+        "id": "DOC-02",
+        "title": "Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2026-09-15",
+        "docNo": "FS-LKO-2025-118"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Fee Paid",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Scrutiny Completed",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Inspection Cleared",
+          "completed": true
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": true
+        },
+        {
+          "label": "Trust Renewal Deed Filed",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Final Order Recorded",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-001",
+        "fromStage": 3,
+        "toStage": 4,
+        "action": "Referred to Standing Hearing Committee",
+        "officer": "Prof. D. K. Sharma",
+        "role": "EVC Convener",
+        "date": "2026-02-03",
+        "shortHash": "8a1b4421",
+        "fullHash": "8a1b4421ef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-05",
+        "officer": "Prof. D. K. Sharma",
+        "text": "Trust Registration expires on 27 Feb 2026 (in 12 days). Institution must submit renewal receipt before committee signs recommendation."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/KA/2026/0045",
+    "fileNumber": "AICTE/KA/2026/0045",
+    "instituteName": "Bengaluru Technical Academy",
+    "state": "KA",
+    "region": "SWRO",
+    "city": "Bengaluru, Karnataka",
+    "programme": "Engineering & Technology (UG)",
+    "intake": 540,
+    "trustName": "Karnataka Technical Foundations Trust",
+    "trustRegNo": "KA/BLR/2015/00881",
+    "currentStageId": 2,
+    "submissionDate": "2026-02-05",
+    "stageEnteredDate": "2026-02-10",
+    "assignedOfficer": "Dr. S. K. Ramanathan",
+    "officerDesk": "Desk 04 (SWRO)",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 12.5,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-03-31"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "KA/BLR/2015/00881",
+        "registrationValidUntil": "2035-12-31"
+      },
+      "FAC-01": {
+        "ratio": 13.5,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1.5,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration",
+        "submitted": true,
+        "expiryDate": "2035-12-31",
+        "docNo": "KA/BLR/2015/00881"
+      },
+      {
+        "id": "DOC-02",
+        "title": "Fire Safety Certificate",
+        "submitted": true,
+        "expiryDate": "2027-03-31",
+        "docNo": "BBMP-FIRE-2026-01"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Clear Land Title Deed",
+        "submitted": true,
+        "expiryDate": null,
+        "docNo": "REG-BLR-2025-992"
+      },
+      {
+        "id": "DOC-04",
+        "title": "Bank Joint FDR",
+        "submitted": true,
+        "expiryDate": "2036-02-01",
+        "docNo": "SBI-FDR-88129"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Fee Paid",
+          "completed": true
+        },
+        {
+          "label": "Form 101 Received",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land Title Deeds Verified",
+          "completed": true
+        },
+        {
+          "label": "Valid Fire NOC On Record",
+          "completed": true
+        },
+        {
+          "label": "Trust Deed Name Reconciliation",
+          "completed": true
+        },
+        {
+          "label": "Cadre Proportion Checked",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Site Visit",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "Hearing Recorded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Order Dispatched",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-001",
+        "fromStage": 1,
+        "toStage": 2,
+        "action": "Inward Scrutiny Cleared",
+        "officer": "Dr. S. K. Ramanathan",
+        "role": "Scrutiny Officer",
+        "date": "2026-02-10",
+        "shortHash": "9e1c2211",
+        "fullHash": "9e1c2211ef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-12",
+        "officer": "Dr. S. K. Ramanathan",
+        "text": "Exemplary document filing. All statutory clauses PASS with zero deviations. Ready for advance to EVC."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/DL/2026/0014",
+    "fileNumber": "AICTE/DL/2026/0014",
+    "instituteName": "Capital Engineering College",
+    "state": "DL",
+    "region": "NWRO",
+    "city": "Rohini, New Delhi",
+    "programme": "Engineering & Technology (UG)",
+    "intake": 300,
+    "trustName": "Delhi Society for Technical Advancement",
+    "trustRegNo": "DL/SOC/2010/0119",
+    "currentStageId": 5,
+    "isWatchlist": true,
+    "postApprovalStatus": "ACTIVE",
+    "submissionDate": "2025-08-10",
+    "stageEnteredDate": "2026-02-08",
+    "assignedOfficer": "Shri Rajiv Bajaj",
+    "officerDesk": "Desk 01 (NWRO)",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 3.5,
+        "requiredAcres": 2.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2026-11-20"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "DL/SOC/2010/0119",
+        "registrationValidUntil": "2030-01-01"
+      },
+      "FAC-01": {
+        "ratio": 18.2,
+        "cadreCompliant": false
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Annual Compliance Return",
+        "submitted": true,
+        "expiryDate": "2026-12-31",
+        "docNo": "ACR-2025-26"
+      },
+      {
+        "id": "DOC-02",
+        "title": "Fire Safety Certificate",
+        "submitted": true,
+        "expiryDate": "2026-11-20",
+        "docNo": "DFS-2025-992"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Inward Done",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Scrutiny Done",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Done",
+          "completed": true
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Done",
+          "completed": true
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": true
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-001",
+        "fromStage": 4,
+        "toStage": 5,
+        "action": "Moved to Decision Record",
+        "officer": "Shri Rajiv Bajaj",
+        "role": "Regional Officer",
+        "date": "2026-02-08",
+        "shortHash": "5f2a9918",
+        "fullHash": "5f2a9918ef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-14",
+        "officer": "Shri Rajiv Bajaj",
+        "text": "Flagged on Post-Approval Watchlist: Annual faculty return indicates 4 faculty resignations, worsening FSR to 1:18.2. Show-cause notice queued."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/TS/2026/0102",
+    "fileNumber": "AICTE/TS/2026/0102",
+    "instituteName": "Kaveri Institute of Technology & Science",
+    "state": "TS",
+    "region": "SCRO",
+    "city": "Hyderabad, TS",
+    "programme": "Engineering & Technology (UG)",
+    "intake": 300,
+    "trustName": "Kaveri Educational Foundation Trust",
+    "trustRegNo": "TS/SOC/2016/0102",
+    "currentStageId": 1,
+    "submissionDate": "2026-01-30",
+    "stageEnteredDate": "2026-02-09",
+    "assignedOfficer": "Dr. S. K. Ramanathan",
+    "officerDesk": "Desk 01",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-07-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "TS/SOC/2016/0102",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0102"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-07-15",
+        "docNo": "FS-0102"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0102"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0102-1",
+        "fromStage": 1,
+        "toStage": 1,
+        "action": "Current Stage: Stage 01",
+        "officer": "Dr. S. K. Ramanathan",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-09",
+        "shortHash": "010299aa",
+        "fullHash": "010299aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-09",
+        "officer": "Dr. S. K. Ramanathan",
+        "text": "Docket opened in Registry Table. Stage 01 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/GJ/2026/0119",
+    "fileNumber": "AICTE/GJ/2026/0119",
+    "instituteName": "Deccan Institute of Technology & Science",
+    "state": "GJ",
+    "region": "CRO",
+    "city": "Ahmedabad, GJ",
+    "programme": "Management (PGDM)",
+    "intake": 360,
+    "trustName": "Deccan Educational Foundation Trust",
+    "trustRegNo": "GJ/SOC/2017/0119",
+    "currentStageId": 1,
+    "submissionDate": "2026-01-18",
+    "stageEnteredDate": "2026-01-28",
+    "assignedOfficer": "Smt. Archana Varma",
+    "officerDesk": "Desk 02",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-08-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "GJ/SOC/2017/0119",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0119"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-08-15",
+        "docNo": "FS-0119"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0119"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": false
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0119-1",
+        "fromStage": 1,
+        "toStage": 1,
+        "action": "Current Stage: Stage 01",
+        "officer": "Smt. Archana Varma",
+        "role": "Assigned Desk Officer",
+        "date": "2026-01-28",
+        "shortHash": "011999aa",
+        "fullHash": "011999aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-01-28",
+        "officer": "Smt. Archana Varma",
+        "text": "Docket opened in Registry Table. Stage 01 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/PB/2026/0136",
+    "fileNumber": "AICTE/PB/2026/0136",
+    "instituteName": "Pinnacle Institute of Technology & Science",
+    "state": "PB",
+    "region": "NWRO",
+    "city": "Ludhiana, PB",
+    "programme": "Polytechnic Diploma",
+    "intake": 420,
+    "trustName": "Pinnacle Educational Foundation Trust",
+    "trustRegNo": "PB/SOC/2018/0136",
+    "currentStageId": 1,
+    "submissionDate": "2026-02-03",
+    "stageEnteredDate": "2026-02-13",
+    "assignedOfficer": "Prof. D. K. Sharma",
+    "officerDesk": "Desk 03",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2025-09-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "PB/SOC/2018/0136",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0136"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2025-09-15",
+        "docNo": "FS-0136"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0136"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": false
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0136-1",
+        "fromStage": 1,
+        "toStage": 1,
+        "action": "Current Stage: Stage 01",
+        "officer": "Prof. D. K. Sharma",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-13",
+        "shortHash": "013699aa",
+        "fullHash": "013699aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-13",
+        "officer": "Prof. D. K. Sharma",
+        "text": "Docket opened in Registry Table. Stage 01 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/KL/2026/0153",
+    "fileNumber": "AICTE/KL/2026/0153",
+    "instituteName": "Royal Institute of Technology & Science",
+    "state": "KL",
+    "region": "SWRO",
+    "city": "Thrissur, KL",
+    "programme": "Computer Applications (MCA)",
+    "intake": 480,
+    "trustName": "Royal Educational Foundation Trust",
+    "trustRegNo": "KL/SOC/2010/0153",
+    "currentStageId": 1,
+    "submissionDate": "2026-02-01",
+    "stageEnteredDate": "2026-02-11",
+    "assignedOfficer": "Shri Rajiv Bajaj",
+    "officerDesk": "Desk 04",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-10-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "KL/SOC/2010/0153",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 17.5,
+        "cadreCompliant": false
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0153"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-10-15",
+        "docNo": "FS-0153"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0153"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": false
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0153-1",
+        "fromStage": 1,
+        "toStage": 1,
+        "action": "Current Stage: Stage 01",
+        "officer": "Shri Rajiv Bajaj",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-11",
+        "shortHash": "015399aa",
+        "fullHash": "015399aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-11",
+        "officer": "Shri Rajiv Bajaj",
+        "text": "Docket opened in Registry Table. Stage 01 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/AP/2026/0170",
+    "fileNumber": "AICTE/AP/2026/0170",
+    "instituteName": "Pragati Institute of Technology & Science",
+    "state": "AP",
+    "region": "SCRO",
+    "city": "Visakhapatnam, AP",
+    "programme": "Pharmacy (B.Pharm)",
+    "intake": 540,
+    "trustName": "Pragati Educational Foundation Trust",
+    "trustRegNo": "AP/SOC/2011/0170",
+    "currentStageId": 1,
+    "submissionDate": "2026-01-22",
+    "stageEnteredDate": "2026-02-01",
+    "assignedOfficer": "Dr. B. K. Murthy",
+    "officerDesk": "Desk 05",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-11-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "AP/SOC/2011/0170",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0170"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-11-15",
+        "docNo": "FS-0170"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0170"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0170-1",
+        "fromStage": 1,
+        "toStage": 1,
+        "action": "Current Stage: Stage 01",
+        "officer": "Dr. B. K. Murthy",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-01",
+        "shortHash": "017099aa",
+        "fullHash": "017099aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-01",
+        "officer": "Dr. B. K. Murthy",
+        "text": "Docket opened in Registry Table. Stage 01 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/OD/2026/0187",
+    "fileNumber": "AICTE/OD/2026/0187",
+    "instituteName": "Aryabhatta Institute of Technology & Science",
+    "state": "OD",
+    "region": "ERO",
+    "city": "Bhubaneswar, OD",
+    "programme": "Architecture & Planning",
+    "intake": 600,
+    "trustName": "Aryabhatta Educational Foundation Trust",
+    "trustRegNo": "OD/SOC/2012/0187",
+    "currentStageId": 1,
+    "submissionDate": "2026-01-28",
+    "stageEnteredDate": "2026-02-07",
+    "assignedOfficer": "Smt. Meenakshi Sundaram",
+    "officerDesk": "Desk 06",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-12-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "OD/SOC/2012/0187",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0187"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-12-15",
+        "docNo": "FS-0187"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0187"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": false
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0187-1",
+        "fromStage": 1,
+        "toStage": 1,
+        "action": "Current Stage: Stage 01",
+        "officer": "Smt. Meenakshi Sundaram",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-07",
+        "shortHash": "018799aa",
+        "fullHash": "018799aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-07",
+        "officer": "Smt. Meenakshi Sundaram",
+        "text": "Docket opened in Registry Table. Stage 01 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/MP/2026/0204",
+    "fileNumber": "AICTE/MP/2026/0204",
+    "instituteName": "Vellore Institute of Technology & Science",
+    "state": "MP",
+    "region": "CRO",
+    "city": "Bhopal, MP",
+    "programme": "Engineering & Technology (UG)",
+    "intake": 300,
+    "trustName": "Vellore Educational Foundation Trust",
+    "trustRegNo": "MP/SOC/2013/0204",
+    "currentStageId": 1,
+    "submissionDate": "2026-02-03",
+    "stageEnteredDate": "2026-02-13",
+    "assignedOfficer": "Dr. S. K. Ramanathan",
+    "officerDesk": "Desk 01",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-01-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "MP/SOC/2013/0204",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0204"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-01-15",
+        "docNo": "FS-0204"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0204"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0204-1",
+        "fromStage": 1,
+        "toStage": 1,
+        "action": "Current Stage: Stage 01",
+        "officer": "Dr. S. K. Ramanathan",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-13",
+        "shortHash": "020499aa",
+        "fullHash": "020499aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-13",
+        "officer": "Dr. S. K. Ramanathan",
+        "text": "Docket opened in Registry Table. Stage 01 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/TN/2026/0221",
+    "fileNumber": "AICTE/TN/2026/0221",
+    "instituteName": "Sahyadri Institute of Technology & Science",
+    "state": "TN",
+    "region": "SRO",
+    "city": "Chennai, TN",
+    "programme": "Management (PGDM)",
+    "intake": 360,
+    "trustName": "Sahyadri Educational Foundation Trust",
+    "trustRegNo": "TN/SOC/2014/0221",
+    "currentStageId": 2,
+    "submissionDate": "2026-02-01",
+    "stageEnteredDate": "2026-02-11",
+    "assignedOfficer": "Smt. Archana Varma",
+    "officerDesk": "Desk 02",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-02-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "TN/SOC/2014/0221",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0221"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-02-15",
+        "docNo": "FS-0221"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0221"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": false
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0221-1",
+        "fromStage": 1,
+        "toStage": 2,
+        "action": "Current Stage: Stage 02",
+        "officer": "Smt. Archana Varma",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-11",
+        "shortHash": "022199aa",
+        "fullHash": "022199aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-11",
+        "officer": "Smt. Archana Varma",
+        "text": "Docket opened in Registry Table. Stage 02 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/MH/2026/0238",
+    "fileNumber": "AICTE/MH/2026/0238",
+    "instituteName": "Godavari Institute of Technology & Science",
+    "state": "MH",
+    "region": "WRO",
+    "city": "Mumbai, MH",
+    "programme": "Polytechnic Diploma",
+    "intake": 420,
+    "trustName": "Godavari Educational Foundation Trust",
+    "trustRegNo": "MH/SOC/2015/0238",
+    "currentStageId": 2,
+    "submissionDate": "2026-01-18",
+    "stageEnteredDate": "2026-01-28",
+    "assignedOfficer": "Prof. D. K. Sharma",
+    "officerDesk": "Desk 03",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-03-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "MH/SOC/2015/0238",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0238"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-03-15",
+        "docNo": "FS-0238"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0238"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0238-1",
+        "fromStage": 1,
+        "toStage": 2,
+        "action": "Current Stage: Stage 02",
+        "officer": "Prof. D. K. Sharma",
+        "role": "Assigned Desk Officer",
+        "date": "2026-01-28",
+        "shortHash": "023899aa",
+        "fullHash": "023899aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-01-28",
+        "officer": "Prof. D. K. Sharma",
+        "text": "Docket opened in Registry Table. Stage 02 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/UP/2026/0255",
+    "fileNumber": "AICTE/UP/2026/0255",
+    "instituteName": "Tagore Institute of Technology & Science",
+    "state": "UP",
+    "region": "NRO",
+    "city": "Kanpur, UP",
+    "programme": "Computer Applications (MCA)",
+    "intake": 480,
+    "trustName": "Tagore Educational Foundation Trust",
+    "trustRegNo": "UP/SOC/2016/0255",
+    "currentStageId": 2,
+    "submissionDate": "2026-01-22",
+    "stageEnteredDate": "2026-02-01",
+    "assignedOfficer": "Shri Rajiv Bajaj",
+    "officerDesk": "Desk 04",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-04-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "UP/SOC/2016/0255",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0255"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-04-15",
+        "docNo": "FS-0255"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0255"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": false
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0255-1",
+        "fromStage": 1,
+        "toStage": 2,
+        "action": "Current Stage: Stage 02",
+        "officer": "Shri Rajiv Bajaj",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-01",
+        "shortHash": "025599aa",
+        "fullHash": "025599aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-01",
+        "officer": "Shri Rajiv Bajaj",
+        "text": "Docket opened in Registry Table. Stage 02 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/KA/2026/0272",
+    "fileNumber": "AICTE/KA/2026/0272",
+    "instituteName": "Malabar Institute of Technology & Science",
+    "state": "KA",
+    "region": "SWRO",
+    "city": "Bengaluru, KA",
+    "programme": "Pharmacy (B.Pharm)",
+    "intake": 540,
+    "trustName": "Malabar Educational Foundation Trust",
+    "trustRegNo": "KA/SOC/2017/0272",
+    "currentStageId": 2,
+    "submissionDate": "2026-02-03",
+    "stageEnteredDate": "2026-02-13",
+    "assignedOfficer": "Dr. B. K. Murthy",
+    "officerDesk": "Desk 05",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2025-05-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "KA/SOC/2017/0272",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0272"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2025-05-15",
+        "docNo": "FS-0272"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0272"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": false
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0272-1",
+        "fromStage": 1,
+        "toStage": 2,
+        "action": "Current Stage: Stage 02",
+        "officer": "Dr. B. K. Murthy",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-13",
+        "shortHash": "027299aa",
+        "fullHash": "027299aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-13",
+        "officer": "Dr. B. K. Murthy",
+        "text": "Docket opened in Registry Table. Stage 02 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/DL/2026/0289",
+    "fileNumber": "AICTE/DL/2026/0289",
+    "instituteName": "Satpura Institute of Technology & Science",
+    "state": "DL",
+    "region": "NWRO",
+    "city": "New Delhi, DL",
+    "programme": "Architecture & Planning",
+    "intake": 600,
+    "trustName": "Satpura Educational Foundation Trust",
+    "trustRegNo": "DL/SOC/2018/0289",
+    "currentStageId": 2,
+    "submissionDate": "2026-02-01",
+    "stageEnteredDate": "2026-02-11",
+    "assignedOfficer": "Smt. Meenakshi Sundaram",
+    "officerDesk": "Desk 06",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-06-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "DL/SOC/2018/0289",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0289"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-06-15",
+        "docNo": "FS-0289"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0289"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": false
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0289-1",
+        "fromStage": 1,
+        "toStage": 2,
+        "action": "Current Stage: Stage 02",
+        "officer": "Smt. Meenakshi Sundaram",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-11",
+        "shortHash": "028999aa",
+        "fullHash": "028999aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-11",
+        "officer": "Smt. Meenakshi Sundaram",
+        "text": "Docket opened in Registry Table. Stage 02 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/WB/2026/0306",
+    "fileNumber": "AICTE/WB/2026/0306",
+    "instituteName": "Brahmaputra Institute of Technology & Science",
+    "state": "WB",
+    "region": "ERO",
+    "city": "Kolkata, WB",
+    "programme": "Engineering & Technology (UG)",
+    "intake": 300,
+    "trustName": "Brahmaputra Educational Foundation Trust",
+    "trustRegNo": "WB/SOC/2010/0306",
+    "currentStageId": 2,
+    "submissionDate": "2026-01-30",
+    "stageEnteredDate": "2026-02-09",
+    "assignedOfficer": "Dr. S. K. Ramanathan",
+    "officerDesk": "Desk 01",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-07-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "WB/SOC/2010/0306",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 17.5,
+        "cadreCompliant": false
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0306"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-07-15",
+        "docNo": "FS-0306"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0306"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0306-1",
+        "fromStage": 1,
+        "toStage": 2,
+        "action": "Current Stage: Stage 02",
+        "officer": "Dr. S. K. Ramanathan",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-09",
+        "shortHash": "030699aa",
+        "fullHash": "030699aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-09",
+        "officer": "Dr. S. K. Ramanathan",
+        "text": "Docket opened in Registry Table. Stage 02 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/TS/2026/0323",
+    "fileNumber": "AICTE/TS/2026/0323",
+    "instituteName": "Himalayan Institute of Technology & Science",
+    "state": "TS",
+    "region": "SCRO",
+    "city": "Hyderabad, TS",
+    "programme": "Management (PGDM)",
+    "intake": 360,
+    "trustName": "Himalayan Educational Foundation Trust",
+    "trustRegNo": "TS/SOC/2011/0323",
+    "currentStageId": 2,
+    "submissionDate": "2026-01-28",
+    "stageEnteredDate": "2026-02-07",
+    "assignedOfficer": "Smt. Archana Varma",
+    "officerDesk": "Desk 02",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-08-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "TS/SOC/2011/0323",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0323"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-08-15",
+        "docNo": "FS-0323"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0323"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": false
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0323-1",
+        "fromStage": 1,
+        "toStage": 2,
+        "action": "Current Stage: Stage 02",
+        "officer": "Smt. Archana Varma",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-07",
+        "shortHash": "032399aa",
+        "fullHash": "032399aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-07",
+        "officer": "Smt. Archana Varma",
+        "text": "Docket opened in Registry Table. Stage 02 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/GJ/2026/0340",
+    "fileNumber": "AICTE/GJ/2026/0340",
+    "instituteName": "Dronacharya Institute of Technology & Science",
+    "state": "GJ",
+    "region": "CRO",
+    "city": "Ahmedabad, GJ",
+    "programme": "Polytechnic Diploma",
+    "intake": 420,
+    "trustName": "Dronacharya Educational Foundation Trust",
+    "trustRegNo": "GJ/SOC/2012/0340",
+    "currentStageId": 2,
+    "submissionDate": "2026-01-22",
+    "stageEnteredDate": "2026-02-01",
+    "assignedOfficer": "Prof. D. K. Sharma",
+    "officerDesk": "Desk 03",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-09-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "GJ/SOC/2012/0340",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0340"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-09-15",
+        "docNo": "FS-0340"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0340"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0340-1",
+        "fromStage": 1,
+        "toStage": 2,
+        "action": "Current Stage: Stage 02",
+        "officer": "Prof. D. K. Sharma",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-01",
+        "shortHash": "034099aa",
+        "fullHash": "034099aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-01",
+        "officer": "Prof. D. K. Sharma",
+        "text": "Docket opened in Registry Table. Stage 02 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/PB/2026/0357",
+    "fileNumber": "AICTE/PB/2026/0357",
+    "instituteName": "Chanakya Institute of Technology & Science",
+    "state": "PB",
+    "region": "NWRO",
+    "city": "Ludhiana, PB",
+    "programme": "Computer Applications (MCA)",
+    "intake": 480,
+    "trustName": "Chanakya Educational Foundation Trust",
+    "trustRegNo": "PB/SOC/2013/0357",
+    "currentStageId": 2,
+    "submissionDate": "2026-01-18",
+    "stageEnteredDate": "2026-01-28",
+    "assignedOfficer": "Shri Rajiv Bajaj",
+    "officerDesk": "Desk 04",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-10-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "PB/SOC/2013/0357",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0357"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-10-15",
+        "docNo": "FS-0357"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0357"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": false
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0357-1",
+        "fromStage": 1,
+        "toStage": 2,
+        "action": "Current Stage: Stage 02",
+        "officer": "Shri Rajiv Bajaj",
+        "role": "Assigned Desk Officer",
+        "date": "2026-01-28",
+        "shortHash": "035799aa",
+        "fullHash": "035799aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-01-28",
+        "officer": "Shri Rajiv Bajaj",
+        "text": "Docket opened in Registry Table. Stage 02 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/KL/2026/0374",
+    "fileNumber": "AICTE/KL/2026/0374",
+    "instituteName": "Bharati Institute of Technology & Science",
+    "state": "KL",
+    "region": "SWRO",
+    "city": "Thrissur, KL",
+    "programme": "Pharmacy (B.Pharm)",
+    "intake": 540,
+    "trustName": "Bharati Educational Foundation Trust",
+    "trustRegNo": "KL/SOC/2014/0374",
+    "currentStageId": 2,
+    "submissionDate": "2026-01-30",
+    "stageEnteredDate": "2026-02-09",
+    "assignedOfficer": "Dr. B. K. Murthy",
+    "officerDesk": "Desk 05",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-11-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "KL/SOC/2014/0374",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0374"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-11-15",
+        "docNo": "FS-0374"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0374"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0374-1",
+        "fromStage": 1,
+        "toStage": 2,
+        "action": "Current Stage: Stage 02",
+        "officer": "Dr. B. K. Murthy",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-09",
+        "shortHash": "037499aa",
+        "fullHash": "037499aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-09",
+        "officer": "Dr. B. K. Murthy",
+        "text": "Docket opened in Registry Table. Stage 02 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/AP/2026/0391",
+    "fileNumber": "AICTE/AP/2026/0391",
+    "instituteName": "Apex Institute of Technology & Science",
+    "state": "AP",
+    "region": "SCRO",
+    "city": "Visakhapatnam, AP",
+    "programme": "Architecture & Planning",
+    "intake": 600,
+    "trustName": "Apex Educational Foundation Trust",
+    "trustRegNo": "AP/SOC/2015/0391",
+    "currentStageId": 3,
+    "submissionDate": "2026-01-28",
+    "stageEnteredDate": "2026-02-07",
+    "assignedOfficer": "Smt. Meenakshi Sundaram",
+    "officerDesk": "Desk 06",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-12-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "AP/SOC/2015/0391",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0391"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-12-15",
+        "docNo": "FS-0391"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0391"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0391-1",
+        "fromStage": 1,
+        "toStage": 3,
+        "action": "Current Stage: Stage 03",
+        "officer": "Smt. Meenakshi Sundaram",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-07",
+        "shortHash": "039199aa",
+        "fullHash": "039199aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-07",
+        "officer": "Smt. Meenakshi Sundaram",
+        "text": "Docket opened in Registry Table. Stage 03 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/OD/2026/0408",
+    "fileNumber": "AICTE/OD/2026/0408",
+    "instituteName": "National Institute of Technology & Science",
+    "state": "OD",
+    "region": "ERO",
+    "city": "Bhubaneswar, OD",
+    "programme": "Engineering & Technology (UG)",
+    "intake": 300,
+    "trustName": "National Educational Foundation Trust",
+    "trustRegNo": "OD/SOC/2016/0408",
+    "currentStageId": 3,
+    "submissionDate": "2026-02-03",
+    "stageEnteredDate": "2026-02-13",
+    "assignedOfficer": "Dr. S. K. Ramanathan",
+    "officerDesk": "Desk 01",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2025-01-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "OD/SOC/2016/0408",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0408"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2025-01-15",
+        "docNo": "FS-0408"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0408"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0408-1",
+        "fromStage": 1,
+        "toStage": 3,
+        "action": "Current Stage: Stage 03",
+        "officer": "Dr. S. K. Ramanathan",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-13",
+        "shortHash": "040899aa",
+        "fullHash": "040899aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-13",
+        "officer": "Dr. S. K. Ramanathan",
+        "text": "Docket opened in Registry Table. Stage 03 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/MP/2026/0425",
+    "fileNumber": "AICTE/MP/2026/0425",
+    "instituteName": "Vidya Institute of Technology & Science",
+    "state": "MP",
+    "region": "CRO",
+    "city": "Bhopal, MP",
+    "programme": "Management (PGDM)",
+    "intake": 360,
+    "trustName": "Vidya Educational Foundation Trust",
+    "trustRegNo": "MP/SOC/2017/0425",
+    "currentStageId": 3,
+    "submissionDate": "2026-01-22",
+    "stageEnteredDate": "2026-02-01",
+    "assignedOfficer": "Smt. Archana Varma",
+    "officerDesk": "Desk 02",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-02-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "MP/SOC/2017/0425",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0425"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-02-15",
+        "docNo": "FS-0425"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0425"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0425-1",
+        "fromStage": 1,
+        "toStage": 3,
+        "action": "Current Stage: Stage 03",
+        "officer": "Smt. Archana Varma",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-01",
+        "shortHash": "042599aa",
+        "fullHash": "042599aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-01",
+        "officer": "Smt. Archana Varma",
+        "text": "Docket opened in Registry Table. Stage 03 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/TN/2026/0442",
+    "fileNumber": "AICTE/TN/2026/0442",
+    "instituteName": "Saraswati Institute of Technology & Science",
+    "state": "TN",
+    "region": "SRO",
+    "city": "Chennai, TN",
+    "programme": "Polytechnic Diploma",
+    "intake": 420,
+    "trustName": "Saraswati Educational Foundation Trust",
+    "trustRegNo": "TN/SOC/2018/0442",
+    "currentStageId": 3,
+    "submissionDate": "2026-01-30",
+    "stageEnteredDate": "2026-02-09",
+    "assignedOfficer": "Prof. D. K. Sharma",
+    "officerDesk": "Desk 03",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-03-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "TN/SOC/2018/0442",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0442"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-03-15",
+        "docNo": "FS-0442"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0442"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0442-1",
+        "fromStage": 1,
+        "toStage": 3,
+        "action": "Current Stage: Stage 03",
+        "officer": "Prof. D. K. Sharma",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-09",
+        "shortHash": "044299aa",
+        "fullHash": "044299aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-09",
+        "officer": "Prof. D. K. Sharma",
+        "text": "Docket opened in Registry Table. Stage 03 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/MH/2026/0459",
+    "fileNumber": "AICTE/MH/2026/0459",
+    "instituteName": "Heritage Institute of Technology & Science",
+    "state": "MH",
+    "region": "WRO",
+    "city": "Mumbai, MH",
+    "programme": "Computer Applications (MCA)",
+    "intake": 480,
+    "trustName": "Heritage Educational Foundation Trust",
+    "trustRegNo": "MH/SOC/2010/0459",
+    "currentStageId": 3,
+    "submissionDate": "2026-01-28",
+    "stageEnteredDate": "2026-02-07",
+    "assignedOfficer": "Shri Rajiv Bajaj",
+    "officerDesk": "Desk 04",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-04-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "MH/SOC/2010/0459",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 17.5,
+        "cadreCompliant": false
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0459"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-04-15",
+        "docNo": "FS-0459"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0459"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0459-1",
+        "fromStage": 1,
+        "toStage": 3,
+        "action": "Current Stage: Stage 03",
+        "officer": "Shri Rajiv Bajaj",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-07",
+        "shortHash": "045999aa",
+        "fullHash": "045999aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-07",
+        "officer": "Shri Rajiv Bajaj",
+        "text": "Docket opened in Registry Table. Stage 03 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/UP/2026/0476",
+    "fileNumber": "AICTE/UP/2026/0476",
+    "instituteName": "Kaveri Institute of Technology & Science",
+    "state": "UP",
+    "region": "NRO",
+    "city": "Kanpur, UP",
+    "programme": "Pharmacy (B.Pharm)",
+    "intake": 540,
+    "trustName": "Kaveri Educational Foundation Trust",
+    "trustRegNo": "UP/SOC/2011/0476",
+    "currentStageId": 3,
+    "submissionDate": "2026-01-18",
+    "stageEnteredDate": "2026-01-28",
+    "assignedOfficer": "Dr. B. K. Murthy",
+    "officerDesk": "Desk 05",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-05-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "UP/SOC/2011/0476",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0476"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-05-15",
+        "docNo": "FS-0476"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0476"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0476-1",
+        "fromStage": 1,
+        "toStage": 3,
+        "action": "Current Stage: Stage 03",
+        "officer": "Dr. B. K. Murthy",
+        "role": "Assigned Desk Officer",
+        "date": "2026-01-28",
+        "shortHash": "047699aa",
+        "fullHash": "047699aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-01-28",
+        "officer": "Dr. B. K. Murthy",
+        "text": "Docket opened in Registry Table. Stage 03 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/KA/2026/0493",
+    "fileNumber": "AICTE/KA/2026/0493",
+    "instituteName": "Deccan Institute of Technology & Science",
+    "state": "KA",
+    "region": "SWRO",
+    "city": "Bengaluru, KA",
+    "programme": "Architecture & Planning",
+    "intake": 600,
+    "trustName": "Deccan Educational Foundation Trust",
+    "trustRegNo": "KA/SOC/2012/0493",
+    "currentStageId": 3,
+    "submissionDate": "2026-02-01",
+    "stageEnteredDate": "2026-02-11",
+    "assignedOfficer": "Smt. Meenakshi Sundaram",
+    "officerDesk": "Desk 06",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-06-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "KA/SOC/2012/0493",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0493"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-06-15",
+        "docNo": "FS-0493"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0493"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": false
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": false
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0493-1",
+        "fromStage": 1,
+        "toStage": 3,
+        "action": "Current Stage: Stage 03",
+        "officer": "Smt. Meenakshi Sundaram",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-11",
+        "shortHash": "049399aa",
+        "fullHash": "049399aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-11",
+        "officer": "Smt. Meenakshi Sundaram",
+        "text": "Docket opened in Registry Table. Stage 03 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/DL/2026/0510",
+    "fileNumber": "AICTE/DL/2026/0510",
+    "instituteName": "Pinnacle Institute of Technology & Science",
+    "state": "DL",
+    "region": "NWRO",
+    "city": "New Delhi, DL",
+    "programme": "Engineering & Technology (UG)",
+    "intake": 300,
+    "trustName": "Pinnacle Educational Foundation Trust",
+    "trustRegNo": "DL/SOC/2013/0510",
+    "currentStageId": 4,
+    "submissionDate": "2026-01-22",
+    "stageEnteredDate": "2026-02-01",
+    "assignedOfficer": "Dr. S. K. Ramanathan",
+    "officerDesk": "Desk 01",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-07-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "DL/SOC/2013/0510",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0510"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-07-15",
+        "docNo": "FS-0510"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0510"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": true
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": true
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0510-1",
+        "fromStage": 1,
+        "toStage": 4,
+        "action": "Current Stage: Stage 04",
+        "officer": "Dr. S. K. Ramanathan",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-01",
+        "shortHash": "051099aa",
+        "fullHash": "051099aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-01",
+        "officer": "Dr. S. K. Ramanathan",
+        "text": "Docket opened in Registry Table. Stage 04 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/WB/2026/0527",
+    "fileNumber": "AICTE/WB/2026/0527",
+    "instituteName": "Royal Institute of Technology & Science",
+    "state": "WB",
+    "region": "ERO",
+    "city": "Kolkata, WB",
+    "programme": "Management (PGDM)",
+    "intake": 360,
+    "trustName": "Royal Educational Foundation Trust",
+    "trustRegNo": "WB/SOC/2014/0527",
+    "currentStageId": 4,
+    "submissionDate": "2026-01-28",
+    "stageEnteredDate": "2026-02-07",
+    "assignedOfficer": "Smt. Archana Varma",
+    "officerDesk": "Desk 02",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-08-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "WB/SOC/2014/0527",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0527"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-08-15",
+        "docNo": "FS-0527"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0527"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": true
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": true
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0527-1",
+        "fromStage": 1,
+        "toStage": 4,
+        "action": "Current Stage: Stage 04",
+        "officer": "Smt. Archana Varma",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-07",
+        "shortHash": "052799aa",
+        "fullHash": "052799aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-07",
+        "officer": "Smt. Archana Varma",
+        "text": "Docket opened in Registry Table. Stage 04 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/TS/2026/0544",
+    "fileNumber": "AICTE/TS/2026/0544",
+    "instituteName": "Pragati Institute of Technology & Science",
+    "state": "TS",
+    "region": "SCRO",
+    "city": "Hyderabad, TS",
+    "programme": "Polytechnic Diploma",
+    "intake": 420,
+    "trustName": "Pragati Educational Foundation Trust",
+    "trustRegNo": "TS/SOC/2015/0544",
+    "currentStageId": 4,
+    "submissionDate": "2026-02-03",
+    "stageEnteredDate": "2026-02-13",
+    "assignedOfficer": "Prof. D. K. Sharma",
+    "officerDesk": "Desk 03",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2025-09-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "TS/SOC/2015/0544",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0544"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2025-09-15",
+        "docNo": "FS-0544"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0544"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": true
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": true
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0544-1",
+        "fromStage": 1,
+        "toStage": 4,
+        "action": "Current Stage: Stage 04",
+        "officer": "Prof. D. K. Sharma",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-13",
+        "shortHash": "054499aa",
+        "fullHash": "054499aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-13",
+        "officer": "Prof. D. K. Sharma",
+        "text": "Docket opened in Registry Table. Stage 04 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/GJ/2026/0561",
+    "fileNumber": "AICTE/GJ/2026/0561",
+    "instituteName": "Aryabhatta Institute of Technology & Science",
+    "state": "GJ",
+    "region": "CRO",
+    "city": "Ahmedabad, GJ",
+    "programme": "Computer Applications (MCA)",
+    "intake": 480,
+    "trustName": "Aryabhatta Educational Foundation Trust",
+    "trustRegNo": "GJ/SOC/2016/0561",
+    "currentStageId": 4,
+    "submissionDate": "2026-02-01",
+    "stageEnteredDate": "2026-02-11",
+    "assignedOfficer": "Shri Rajiv Bajaj",
+    "officerDesk": "Desk 04",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-10-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "GJ/SOC/2016/0561",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0561"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-10-15",
+        "docNo": "FS-0561"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0561"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": true
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": true
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0561-1",
+        "fromStage": 1,
+        "toStage": 4,
+        "action": "Current Stage: Stage 04",
+        "officer": "Shri Rajiv Bajaj",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-11",
+        "shortHash": "056199aa",
+        "fullHash": "056199aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-11",
+        "officer": "Shri Rajiv Bajaj",
+        "text": "Docket opened in Registry Table. Stage 04 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/PB/2026/0578",
+    "fileNumber": "AICTE/PB/2026/0578",
+    "instituteName": "Vellore Institute of Technology & Science",
+    "state": "PB",
+    "region": "NWRO",
+    "city": "Ludhiana, PB",
+    "programme": "Pharmacy (B.Pharm)",
+    "intake": 540,
+    "trustName": "Vellore Educational Foundation Trust",
+    "trustRegNo": "PB/SOC/2017/0578",
+    "currentStageId": 4,
+    "submissionDate": "2026-01-30",
+    "stageEnteredDate": "2026-02-09",
+    "assignedOfficer": "Dr. B. K. Murthy",
+    "officerDesk": "Desk 05",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-11-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "PB/SOC/2017/0578",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0578"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-11-15",
+        "docNo": "FS-0578"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0578"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": true
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": true
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": false
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": false
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0578-1",
+        "fromStage": 1,
+        "toStage": 4,
+        "action": "Current Stage: Stage 04",
+        "officer": "Dr. B. K. Murthy",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-09",
+        "shortHash": "057899aa",
+        "fullHash": "057899aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-09",
+        "officer": "Dr. B. K. Murthy",
+        "text": "Docket opened in Registry Table. Stage 04 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/KL/2026/0595",
+    "fileNumber": "AICTE/KL/2026/0595",
+    "instituteName": "Sahyadri Institute of Technology & Science",
+    "state": "KL",
+    "region": "SWRO",
+    "city": "Thrissur, KL",
+    "programme": "Architecture & Planning",
+    "intake": 600,
+    "trustName": "Sahyadri Educational Foundation Trust",
+    "trustRegNo": "KL/SOC/2018/0595",
+    "currentStageId": 5,
+    "submissionDate": "2026-01-18",
+    "stageEnteredDate": "2026-01-28",
+    "assignedOfficer": "Smt. Meenakshi Sundaram",
+    "officerDesk": "Desk 06",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-12-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "KL/SOC/2018/0595",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0595"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-12-15",
+        "docNo": "FS-0595"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0595"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": true
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": true
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": true
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": true
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0595-1",
+        "fromStage": 1,
+        "toStage": 5,
+        "action": "Current Stage: Stage 05",
+        "officer": "Smt. Meenakshi Sundaram",
+        "role": "Assigned Desk Officer",
+        "date": "2026-01-28",
+        "shortHash": "059599aa",
+        "fullHash": "059599aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-01-28",
+        "officer": "Smt. Meenakshi Sundaram",
+        "text": "Docket opened in Registry Table. Stage 05 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/AP/2026/0612",
+    "fileNumber": "AICTE/AP/2026/0612",
+    "instituteName": "Godavari Institute of Technology & Science",
+    "state": "AP",
+    "region": "SCRO",
+    "city": "Visakhapatnam, AP",
+    "programme": "Engineering & Technology (UG)",
+    "intake": 300,
+    "trustName": "Godavari Educational Foundation Trust",
+    "trustRegNo": "AP/SOC/2010/0612",
+    "currentStageId": 5,
+    "submissionDate": "2026-02-03",
+    "stageEnteredDate": "2026-02-13",
+    "assignedOfficer": "Dr. S. K. Ramanathan",
+    "officerDesk": "Desk 01",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-01-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "AP/SOC/2010/0612",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 17.5,
+        "cadreCompliant": false
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0612"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-01-15",
+        "docNo": "FS-0612"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0612"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": true
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": true
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": true
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": true
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0612-1",
+        "fromStage": 1,
+        "toStage": 5,
+        "action": "Current Stage: Stage 05",
+        "officer": "Dr. S. K. Ramanathan",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-13",
+        "shortHash": "061299aa",
+        "fullHash": "061299aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-13",
+        "officer": "Dr. S. K. Ramanathan",
+        "text": "Docket opened in Registry Table. Stage 05 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/OD/2026/0629",
+    "fileNumber": "AICTE/OD/2026/0629",
+    "instituteName": "Tagore Institute of Technology & Science",
+    "state": "OD",
+    "region": "ERO",
+    "city": "Bhubaneswar, OD",
+    "programme": "Management (PGDM)",
+    "intake": 360,
+    "trustName": "Tagore Educational Foundation Trust",
+    "trustRegNo": "OD/SOC/2011/0629",
+    "currentStageId": 5,
+    "submissionDate": "2026-02-01",
+    "stageEnteredDate": "2026-02-11",
+    "assignedOfficer": "Smt. Archana Varma",
+    "officerDesk": "Desk 02",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-02-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "OD/SOC/2011/0629",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0629"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-02-15",
+        "docNo": "FS-0629"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0629"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": true
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": true
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": true
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": true
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0629-1",
+        "fromStage": 1,
+        "toStage": 5,
+        "action": "Current Stage: Stage 05",
+        "officer": "Smt. Archana Varma",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-11",
+        "shortHash": "062999aa",
+        "fullHash": "062999aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-11",
+        "officer": "Smt. Archana Varma",
+        "text": "Docket opened in Registry Table. Stage 05 regulatory scrutiny active."
+      }
+    ]
+  },
+  {
+    "id": "AICTE/MP/2026/0646",
+    "fileNumber": "AICTE/MP/2026/0646",
+    "instituteName": "Malabar Institute of Technology & Science",
+    "state": "MP",
+    "region": "CRO",
+    "city": "Bhopal, MP",
+    "programme": "Polytechnic Diploma",
+    "intake": 420,
+    "trustName": "Malabar Educational Foundation Trust",
+    "trustRegNo": "MP/SOC/2012/0646",
+    "currentStageId": 5,
+    "submissionDate": "2026-01-30",
+    "stageEnteredDate": "2026-02-09",
+    "assignedOfficer": "Prof. D. K. Sharma",
+    "officerDesk": "Desk 03",
+    "regulatoryValues": {
+      "LAND-01": {
+        "verifiedAcres": 8,
+        "requiredAcres": 7.5,
+        "titleVerified": true
+      },
+      "FIRE-01": {
+        "validUntil": "2027-03-15"
+      },
+      "TRUST-01": {
+        "nameMismatch": false,
+        "registrationNumber": "MP/SOC/2012/0646",
+        "registrationValidUntil": "2032-05-15"
+      },
+      "FAC-01": {
+        "ratio": 13.8,
+        "cadreCompliant": true
+      },
+      "FDR-01": {
+        "amountCrores": 1,
+        "jointNamed": true,
+        "tenureYears": 10
+      }
+    },
+    "documents": [
+      {
+        "id": "DOC-01",
+        "title": "Trust Registration Deed",
+        "submitted": true,
+        "expiryDate": "2032-05-15",
+        "docNo": "TR-0646"
+      },
+      {
+        "id": "DOC-02",
+        "title": "State Fire Safety NOC",
+        "submitted": true,
+        "expiryDate": "2027-03-15",
+        "docNo": "FS-0646"
+      },
+      {
+        "id": "DOC-03",
+        "title": "Non-Encumbrance Certificate",
+        "submitted": true,
+        "expiryDate": "2026-09-30",
+        "docNo": "NEC-0646"
+      }
+    ],
+    "stageChecklist": {
+      "1": [
+        {
+          "label": "Application Inward Recorded",
+          "completed": true
+        },
+        {
+          "label": "Scrutiny Fee Reconciled",
+          "completed": true
+        }
+      ],
+      "2": [
+        {
+          "label": "Land & Building Docs Verified",
+          "completed": true
+        },
+        {
+          "label": "Statutory Fire NOC Validated",
+          "completed": true
+        }
+      ],
+      "3": [
+        {
+          "label": "EVC Physical Visit Conducted",
+          "completed": true
+        },
+        {
+          "label": "Lab Infrastructure Inspected",
+          "completed": true
+        }
+      ],
+      "4": [
+        {
+          "label": "SHC Hearing Concluded",
+          "completed": true
+        }
+      ],
+      "5": [
+        {
+          "label": "Recorded for Decision by Officer",
+          "completed": true
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "id": "TL-0646-1",
+        "fromStage": 1,
+        "toStage": 5,
+        "action": "Current Stage: Stage 05",
+        "officer": "Prof. D. K. Sharma",
+        "role": "Assigned Desk Officer",
+        "date": "2026-02-09",
+        "shortHash": "064699aa",
+        "fullHash": "064699aaef19028ab6478921a948201948201840283749201948201847291048",
+        "previousHash": "00000000000000000000000000000000"
+      }
+    ],
+    "notes": [
+      {
+        "date": "2026-02-09",
+        "officer": "Prof. D. K. Sharma",
+        "text": "Docket opened in Registry Table. Stage 05 regulatory scrutiny active."
+      }
+    ]
+  }
+]
